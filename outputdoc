@@ -1,0 +1,4 @@
+The project basically finds the masks ( that is the , basic structure of a particular organ ) . 
+since here we did whole processing on a lung image , it identified a lung structure and it's outline . 
+we can further apply this project on complete body image too and find location of various organs . 
+Future scope: This tech can be used in identification of abnormalities if any in the organs and also external objects inside the body . 

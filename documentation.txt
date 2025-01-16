@@ -1,0 +1,5 @@
+Hi vedant here !
+this is a segmentation project , performed on chest MRIs and X rays 
+The idea of this project was taken Mr. P Solver Youtube Channel , link for the video : https://www.youtube.com/watch?v=NA8_Yi_q7X4 
+The Tech stack used : VS Code for the text editing and all stuff , tensorflow , keras , numpy , matlplotlib , opencv-python , nibabel , scikit img 
+
